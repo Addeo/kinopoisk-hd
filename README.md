@@ -1,0 +1,2 @@
+# kinopoisk-hd
+Kinopoisk app
